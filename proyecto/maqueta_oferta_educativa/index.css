@@ -1,0 +1,200 @@
+*
+{
+     margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.head{
+    display: flex;
+    height: 63px;
+    background-color: rgb(56, 56, 207);
+    justify-content: space-between;
+    align-items: center;   
+
+}
+.ham{
+    margin-left: 30px;
+    
+}
+.titulo1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(45, 229, 51);
+font-size: 30px;
+text-shadow: 3px 3px black;
+}
+
+
+
+.menu
+{
+    height: 10vh;
+    background-color: blue; 
+}
+
+.cuerpo
+{
+    height: 90vh;
+    display: flex;
+    background-image: url('/img/fondo.png');
+    background-size: cover;
+   background-repeat: no-repeat;
+
+}
+
+.articulo1
+{
+    display: table;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.caja1
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    margin-top: 115px;
+   background-image: url('./img/construccion1.jfif');
+    width: 280px;
+}
+
+.caja2
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    background-image: url('./img/construccion1.jfif');
+    margin-top: 115px;
+
+
+}
+
+.caja3
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    background-image: url('./img/construccion1.jfif');
+    margin-top: 115px;
+
+
+}
+
+.articulo2
+{
+    display: table;
+    margin-top: 5px;
+}
+
+.caja4
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    margin-top: 115px;
+    text-align: center;
+    background-image: url('./img/entrenamiento.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+    
+}
+
+.caja5
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+   
+    font-size: 40px;
+   
+    margin-top: 115px;
+    background-image: url('./img/entrenamiento.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.caja6
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    background-image: url('./img/entrenamiento.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 115px;
+
+    
+}
+
+.articulo3
+{
+    display: table;
+    margin-top: 115px;
+    margin-right: 40px;
+    padding-right: 40px;
+    color: white;
+    text-align: center;
+    
+}
+
+.caja7
+{
+    height: 130px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    background-image: url('./img/audio.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px black solid;
+}
+
+.caja8
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    background-image: url('./img/audio.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px black solid;
+    
+    margin-top: 115px;
+    
+
+}
+
+.caja9
+{
+    height: 120px;
+    border: solid 2px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    font-size: 40px;
+    margin-top: 115px;
+    flex-wrap: wrap;
+    background-image: url('./img/audio.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px black solid;
+
+}

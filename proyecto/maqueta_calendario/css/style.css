@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body{
+    background-image: url('../img/mi.png');
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+.head{
+    display: flex;
+    height: 63px;
+    background-color: rgb(56, 56, 207);
+    justify-content: space-between;
+    align-items: center;   
+
+}
+.ham{
+    margin-left: 30px;
+    
+}
+.titulo1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(229, 45, 143);
+font-size: 30px;
+text-shadow: 3px 3px black;
+}
+
+

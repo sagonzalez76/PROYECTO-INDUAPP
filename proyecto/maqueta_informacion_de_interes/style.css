@@ -1,0 +1,107 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    height: 70px;
+    background: rgb(7, 7, 119);
+}
+
+.icon-menu {
+    float: left;
+    margin: 20px
+}
+
+.titulo1 {
+    float: left;
+    font-size: 2em;
+    color: rgb(255, 102, 0);
+    -webkit-text-stroke: 1px black;
+    margin: 20px;
+}
+
+/* contenido */
+.content {
+    background: url("img/imagen1.png") round;
+    width: 100%;
+    height: 700px;
+}
+
+.titulo-asos {
+    font-size: 2em;
+    color: rgb(255, 102, 0);
+    -webkit-text-stroke: 1px black;
+}
+
+.text-asos {
+    color: white;
+    -webkit-text-stroke: 0.7px black;
+}
+
+.img {
+    display: block;
+    width: 27%;
+    height: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+.img2 {
+    border: 2px solid black;
+    float: right;
+    width: 50%;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 40px
+}
+
+.article1 {
+    text-align: center;
+    float: right;
+    width: 50%;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+/* footer */
+footer {
+    width: 100%;
+    height: 200px;
+}
+
+.descrip2 {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+    -webkit-text-stroke: 0.7px black;
+}
+
+.reds {
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.descrip {
+    float: right;
+    margin-top: 10px;
+    margin-right: 40px;
+    color: white;
+    font-size: 12px;
+    -webkit-text-stroke: 0.7px black;
+}
