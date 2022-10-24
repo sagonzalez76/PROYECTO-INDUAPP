@@ -1,0 +1,100 @@
+body {
+    background-color: #3481DB;
+    ;
+}
+/* Imagen del SENA */
+.sena{
+    position: absolute;
+    /* Tamaño */
+   
+    /* Ubicacion */
+    
+    /* Ubica le imagen y la arrastra hacia la derecha
+    Left:izquierda */
+   margin: auto;
+        /* Ubica la imagen mas abajo de arriba :) Top*/
+}
+
+.imagen{
+    width: 359px;
+    height: 350px;
+    position: absolute;
+    left: 300px;
+    top: 10vh;
+    font-size:60px ; 
+}
+.Funcionario{
+    position: absolute;
+    left: 830px;
+    top: 40vh;
+    font-size:60px ;
+    -webkit-text-stroke: 1px white;
+}
+.perfil{
+    position: flex;
+    width: 39px;
+    height: 30px;
+    left: -10vh;
+    top: 2vh;
+}
+.contraseña{
+    position: flex;
+    width: 39px;
+    height: 30px;
+    left: -5vh;
+    top: 9vh;
+    font-size:5vh ; 
+}
+.formulario{
+    position: absolute;
+    /* Ubicacion */
+    left: 810px;
+    /* Ubica le imagen y la arrastra hacia la derecha
+    Left:izquierda */
+    top: 59vh;
+        /* Ubica la imagen mas abajo de arriba :) */
+    border-radius:10%;
+}
+input{
+    top: 50vh;
+    width: 30vh;
+    height: 3vh;
+    border-radius: 84px;
+    background: rgba(241, 168, 168, 0.5);
+}
+.recordar{
+    font-size: larger;
+    height: 10vh;
+    position: absolute;
+    left: 850px;
+    top: 75vh;
+    font-size:60px ; 
+}
+.recu{
+    font-size:large;
+    text-align: center;
+}
+
+.ingreso{
+    width: 20%;
+    height: 5vh;
+    position: absolute;
+    left: 900px;
+    top: 89vh; 
+}
+button{
+   background-color:rgba(2, 28, 96, 1);
+   color:white;
+   width: 50%;
+   height: 5vh;
+   border-radius: 49px;
+}
+nav{
+    margin: auto;
+    width: 50%;
+    height: 95vh;
+  
+}
+
+
+
