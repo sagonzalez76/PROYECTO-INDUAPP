@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    height: 20vh;
+
+}
+.logo1{
+    display: flex;
+}
+.nombre{
+    width: 100%;
+    display: flex;
+
+}
+.perfil{
+    display: flex;
+    margin: auto;
+}
+.perfil1{
+    margin: auto;
+}
+.boton{
+    margin: auto;
+}
+.logoan{
+    width: auto;
+    margin-left: 20px;
+}
+.nombrelog{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 50px;
+    margin-left: 30px;
+}
+.contenedor{
+    display: flex;
+    height: 10vh;
+    background-color: #FF673B;
+}
+.filtra{
+    width: 16%;
+    margin: auto;
+    margin-left: 30px;
+}
+.filtra1{
+    width:100%;
+    margin: auto;
+}
+.buscar{
+    width: 96%;
+}
+.titulo{
+    text-align: center;
+
+    border-radius: 30%;
+    width: 60px;
+}
+.contenedor1{
+    display: flex;
+}
+.menu1{
+    width: 100%;
+    /* margin: auto; */
+    display: flex;
+    margin-right: 20px;
+    background-image: url(image\ 68.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.plus{
+    background-color: #7BC4FF;
+    border-radius: 20%;
+    width: 100px;
+    height: 6vh;
+    display: flex;
+    position: relative;
+    right: -210px;
+    margin: auto;
+}
+.contmenu{
+    margin: auto;
+}
+.aaa{
+    height: 12vh;
+    width: 6vw;
+    border-radius: 50%;
+    background-color: #7BC4FF;
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.sofi{
+    margin: auto;
+    text-align: center;
+    
+}
+.catego{
+    text-align: center;
+}
+
+.semille{
+    text-align: center;
+}
+.otros{
+    text-decoration: none;
+
+}
+.lista{
+    text-decoration: none;
+    color: black;
+}
+.lista:hover{
+    background-color: aqua;
+    border-radius: 20%;
+}
+.documentacion{
+    width: 100%;
+}
+.encontrados{
+    margin: 10px 0px 10px 0px;
+
+}
+.abrir{
+    width: 100%;
+    text-align: justify;
+    margin-bottom: 15px;
+    /* height: 40vh; */
+    border: 1px solid red;
+}
+.edit{
+left: 100px;
+border: 5px solid red;
+}
+.inputs{
+    display: flex;
+    text-align: right;
+}
+.edit2{
+    text-align: right;
+}
