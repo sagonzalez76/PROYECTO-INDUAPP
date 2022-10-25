@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-color: rgba(233, 230, 230, 0.622);
+}
+.todo{
+    display: flex;
+    height: 60px;
+    margin: auto;
+    margin-bottom: 15px;
+    /* border: 2px solid rgb(168, 161, 161); */
+    width: 90%;
+    margin-left: 10vh;
+}
+/*principio */
+header{
+    width:100%;
+    margin-top: 1vh;
+    display: flex;
+}
+h6{
+    margin-top: 2vh;
+    margin-left:2vh;
+    font-size: 20px;
+    color: brown;
+}
+div{
+    width: 20vh;
+
+}
+nav{
+    width: 30%; 
+    right:auto;
+    margin: auto;
+    text-align: right;
+ } 
+ .tres{
+    color: rgb(245, 63, 199);
+ }
+/*nudo*/
+h1{
+    text-align: center;
+    margin-top: 10vh;
+    font-size: 30px;
+    
+    
+}
+
+.tabla{
+    height: 60vh;
+    border: 2px solid rgb(168, 161, 161);
+    width: 90%;
+    margin-left: 10vh;
+    margin: center;
+    background-color: white ;
+   
+}
+/* div{
+    width: 10%;
+    top: 20%;
+    /* left: 20vh; 
+    background-color: aqua; 
+    text-align: center;
+} */
+.busca{
+    /* display: flex; */
+    /* right: 80%; */
+    text-align: center;
+    display: flex;
+    /* left: 20vh; */
+     margin-top:10vh ;
+     margin-left: 60vh;
+   
+}
+input{
+    height: 10vh;
+    width: 50%;
+    margin-left: 1vh;
+    border: solid rgb(255, 0, 191);
+    /* display: flex; */
+    
+}
+.texto{
+    width: 100%;
+    background-color: rgb(255, 0, 191);
+}
+footer{
+    height: 20vh;
+    /* border: 2px solid rgb(168, 161, 161); */
+    width: 90%;
+    margin-left: 10vh;
+    margin: center;
+    margin-top: 10%;
+
+    
+}
+
+ /* textos */
+h2{
+    text-align: center;
+    /* height: 15vh; */
+}
+.texto1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+
+/* ultimo */
+
+
+ .lola{
+   display: flex;
+   margin-left: 75vh;
+   margin-top:2%;
+
+}  
+/* h5{
+    text-align: center;
+}  */
+ .letra{
+     text-align: center;
+    color: rgb(255, 0, 191);
+    /* width:6%; */
+}

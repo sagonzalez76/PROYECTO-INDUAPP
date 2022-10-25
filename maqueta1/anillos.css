@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body {
+    /* background-color: rgba(173, 160, 47, 0.801); */
+    background-image: url("https://cdn-www.bluestacks.com/bs-images/app_page_com.netease.lotr_.png"); 
+    /* margin:50px; */
+    /* Background: transparent; */
+    max-width:100;
+    /* height: 56px; */
+    /* max-width: 10%;
+    width: 10px; */
+
+    
+
+}
+.todo{
+    display: flex;
+    height: 60px;
+    Background-color: transparent;
+    margin-top: 10vh;
+    
+}
+.opciones{
+    display: flex;
+    margin: 30px;
+    /*filter:alpha(opacity=70); */
+    
+    
+} 
+ 
+/* .dos{
+   
+    width: 5%; 
+    left:auto;
+    margin: auto;
+    text-align: left;
+
+    
+} */
+.tres{
+     height: 10px;;
+    display:flex;
+   margin: 5px;
+   width: 30px;
+   left:auto;
+   margin: auto;
+   /* text-align: left; */
+  
+
+}
+.texto1{
+    background-color: blueviolet;
+    color: white;
+    
+}
+.una{
+    width: 10%;
+   
+   
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.ultimo{
+    display: flex;
+}
+.hl{
+    display: flex;
+}
+h5{
+    filter:alpha(opacity=70); 
+    text-align: left;
+}
+div{
+    margin-top: 30vh;
+}
