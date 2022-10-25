@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-image: url('/img/sena.jpg_large');
+} */
+.navbar{
+    display: flex;
+    height: 10vh;
+    background-color: blue;
+}
+.menu{
+margin-top: auto;
+margin-bottom: 15px;
+margin-left: 20px;
+}
+.contenedor{
+    margin: 20px;
+    display: flex;
+    height: 60vh;
+}
+.contenedor1{
+    width: 70%;
+    display: flex;
+}
+.contenedor2{
+    width: 30%;
+    height: 90vh;
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 20px;
+    background-image: url('/img/manual.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color: #9C4B38;
+}
+.mapa{
+    margin-top: 35%;
+    text-align: center;
+}
+.ofertas{
+    display: flex;  
+    width: 100%;
+    text-align: center;
+}
+.manual{
+    width: 100%;
+   margin-top: 70%;
+
+}
+.manual1{
+    margin: auto;
+    color: white;
+    font-size: 50px;
+}
+.educativa{
+    height: 60vh;
+    width: 100%;
+}
+.calendario{
+    height: 29vh;
+    margin: auto;
+    margin-left: 20px;
+    border: 1px solid black;
+    background-image:url('/img/calendario.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    background-color: #C55C5C;
+}
+.calendario:hover{
+    filter: blur(2px);
+
+}
+.ofertas1{
+    height: 29vh;
+    /* margin: auto; */
+    margin-left: 20px;
+    border: 1px solid black;
+    background-color:#004E6D ;
+    margin-bottom: 20px;
+}
+.mapas2{
+/* margin: auto; */
+/* text-align: right; */
+width: 100%;
+border: 1px solid black;
+background-color: black;
+background-image:url('/img/mapa.png');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.ofertas2{
+    margin-top: 50px;
+    color: white;
+    font-size: 50px;
+}
+.calendario2{
+    margin-top: 50px;
+    color: white;
+    font-size: 50px;
+    
+}
+.sena{
+    border: 1px solid black;
+    width: 68%;
+    height: 28vh;
+    display: flex;
+    margin-left: 20px;
+    background-color: #B73BA3;
+}
+p{
+    margin: auto;
+    color: white;
+    font-size: 50px;
+}
+.nombre{
+    color: white;
+    font-size: 19px;
+}
+.menu1{
+    display: flex;
+    
+}
+.contmenu{
+    margin-top: auto;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    color: white;
+}
+.fonmapa{
+    color: white;
+    font-size: 50px;
+}
+footer{
+    display: flex;
+}
+.seguir{
+    color: white;
+    text-align: center;
+}
+.siguinos{
+    width: 100%;
+    height: 10vh;
+   margin-top: 30px;
+   margin-left: 30px;
+}
+.centro{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 10vh;
+}
+.acerca{
+width: 100%;
+text-align: right;
+margin-top: 30px;
+margin-right: 30px;
+}
+.seguir1{
+    color: white;
+}
+.contenedor3{
+    display: flex;
+    margin-top: 10px;
+}
+.con1{
+    width: 100%;
+}
+.innova{
+    display: flex;
+    height: 20vh;
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #F18181;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+.vatec{
+    margin: auto;
+    font-size: 50px;
+    color: white;
+}
+
+.cono{
+    display: flex;
+    height: 20vh;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: #A86B58;
+    border: 1px solid black;
+}
+.conoce{
+    margin: auto;
+    font-size: 50px;
+    color: white;
+}
+.familia{
+    display: flex;
+    height: 20vh;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: #B366A2;
+}
+.fami{
+    margin: auto;
+    font-size: 50px;
+    color: white;
+}
+.perfil{
+    height: 40vh;
+    margin: 10px 10px 20px 10px;
+    background-color: #004E6D;
+    display: flex;
+    background-image: url('/img/people.png');
+    background-repeat: no-repeat;
+    background-position-x: 150px;
+}
+.tuperfil{
+    margin: auto;
+    font-size: 50px;
+    color: white;
+}
+.google{
+    display: flex;
+    height: 22vh;
+    margin: 10px;
+    background-color: #55345F;
+}
+.info{
+    margin: 10px;
+    height: 64vh;
+    background-color: #3D6664;
+    display: flex;
+    margin-right: 19px;
+}
+.rele{
+    margin: auto;
+    font-size: 50px;
+    color: white;
+}
+.play{
+    margin: auto;
+    width: 100%;
+}
